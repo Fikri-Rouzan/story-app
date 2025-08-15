@@ -1,6 +1,7 @@
 import { LitElement, html, css } from "lit";
 import { bootstrapIconsSheet } from "../styles/shared-styles.js";
 import { msg, updateWhenLocaleChanges } from "@lit/localize";
+import image from "../assets/img.jpg";
 
 class ProfilePage extends LitElement {
   static styles = [
@@ -62,11 +63,7 @@ class ProfilePage extends LitElement {
   render() {
     return html`
       <div class="profile-card">
-        <img
-          src="/src/assets/img.jpg"
-          alt="Profile Picture"
-          class="profile-picture"
-        />
+        <img src=${image} alt="Profile Picture" class="profile-picture" />
         <h2 class="profile-name">${msg("Muhammad Fikri Rouzan Ash Shidik")}</h2>
         <p class="profile-title">${msg("Web Developer")}</p>
         <p class="profile-bio">

@@ -7,7 +7,7 @@ const { getLocale: originalGetLocale, setLocale: originalSetLocale } =
   configureLocalization({
     sourceLocale,
     targetLocales,
-    loadLocale: (locale) => import(`/src/generated/locales/${locale}.js`),
+    loadLocale: (locale) => import(`./generated/locales/${locale}.js`),
   });
 
 export const setLocale = (newLocale) => {
