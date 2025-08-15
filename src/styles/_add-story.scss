@@ -1,0 +1,29 @@
+@use "variables" as var;
+
+add-story-page {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: 100%;
+
+  .btn-add {
+    background-color: var.$primary;
+    border-color: var.$primary;
+    border-radius: 16px;
+    transition: all 0.3s ease;
+
+    &:hover {
+      background-color: var.$primary-dark;
+      border-color: var.$primary-dark;
+    }
+  }
+
+  #imagePreview {
+    max-width: 100%;
+    max-height: 300px;
+    object-fit: cover;
+    display: none;
+    margin: 0 auto;
+  }
+}

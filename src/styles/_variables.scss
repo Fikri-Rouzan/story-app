@@ -1,0 +1,43 @@
+$surface-color: #f8f9fa;
+$primary: #7c83fd;
+$primary-dark: #626adf;
+$gray: #e5e7eb;
+$text-dark: #333333;
+$text-light: #555555;
+$text-white: #f5f5f5;
+
+$font-size-display: 6rem;
+$font-size-xl: 1.75rem;
+$font-size-lg: 1.5rem;
+$font-size-sm: 1rem;
+$font-weight-bold: 700;
+$font-weight-semibold: 600;
+$font-weight-medium: 500;
+
+$card-border-radius: 1rem;
+$shadow-lg: 0 12px 24px rgba(0, 0, 0, 0.1);
+$shadow-md: 4px 8px 12px rgba(0, 0, 0, 0.1);
+$shadow-hover: 6px 12px 18px rgba(0, 0, 0, 0.2);
+
+:root {
+  --surface-color: #{$surface-color};
+  --primary-color: #{$primary};
+  --primary-color-dark: #{$primary-dark};
+  --gray-color: #{$gray};
+  --text-color-dark: #{$text-dark};
+  --text-color-light: #{$text-light};
+  --text-color-white: #{$text-white};
+
+  --font-size-display: #{$font-size-display};
+  --font-size-xl: #{$font-size-xl};
+  --font-size-lg: #{$font-size-lg};
+  --font-size-sm: #{$font-size-sm};
+  --font-weight-bold: #{$font-weight-bold};
+  --font-weight-semibold: #{$font-weight-semibold};
+  --font-weight-medium: #{$font-weight-medium};
+
+  --card-border-radius: #{$card-border-radius};
+  --shadow-lg: #{$shadow-lg};
+  --shadow-md: #{$shadow-md};
+  --shadow-hover: #{$shadow-hover};
+}

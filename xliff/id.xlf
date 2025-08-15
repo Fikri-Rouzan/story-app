@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+<file target-language="id" source-language="en" original="lit-localize-inputs" datatype="plaintext">
+<body>
+<trans-unit id="s56cc72a5c70bc49d">
+  <source>Story App</source>
+  <target>Aplikasi Cerita</target>
+</trans-unit>
+<trans-unit id="s6d8c02aee480af7a">
+  <source>Menu</source>
+  <target>Menu</target>
+</trans-unit>
+<trans-unit id="s7fee95b66225e1fb">
+  <source>Dashboard</source>
+  <target>Dasbor</target>
+</trans-unit>
+<trans-unit id="s1f30f2eaf1e38fb9">
+  <source>Add Story</source>
+  <target>Tambah Cerita</target>
+</trans-unit>
+<trans-unit id="sb061ff5a347a296e">
+  <source>Profile</source>
+  <target>Profil</target>
+</trans-unit>
+<trans-unit id="s1c68d6aad1d775f2">
+  <source>Create New Story</source>
+  <target>Buat Cerita Baru</target>
+</trans-unit>
+<trans-unit id="sf1a78dd2508964c3">
+  <source>Photo</source>
+  <target>Foto</target>
+</trans-unit>
+<trans-unit id="s4321e5915889f154">
+  <source>Please choose a photo for your story.</source>
+  <target>Silakan pilih foto untuk cerita Anda.</target>
+</trans-unit>
+<trans-unit id="s63d894b1ddb06289">
+  <source>Description</source>
+  <target>Deskripsi</target>
+</trans-unit>
+<trans-unit id="s2a309fabbfbf6e26">
+  <source>Please enter a description.</source>
+  <target>Silakan masukkan deskripsi.</target>
+</trans-unit>
+<trans-unit id="sb8b69f1e45c72361">
+  <source>Upload Story</source>
+  <target>Unggah Cerita</target>
+</trans-unit>
+<trans-unit id="s68f7b32cbb71f1cc">
+  <source>© <x id="0" equiv-text="${new Date().getFullYear()}"/> Muhammad Fikri Rouzan Ash Shidik</source>
+  <target>© <x id="0" equiv-text="${new Date().getFullYear()}"/> Muhammad Fikri Rouzan Ash Shidik</target>
+</trans-unit>
+<trans-unit id="s662f303af3c8fc97">
+  <source>Muhammad Fikri Rouzan Ash Shidik</source>
+  <target>Muhammad Fikri Rouzan Ash Shidik</target>
+</trans-unit>
+<trans-unit id="sc6ee9f35f667ab23">
+  <source>Web Developer</source>
+  <target>Web Developer</target>
+</trans-unit>
+<trans-unit id="s2888976f54dcceb7">
+  <source>Page Not Found</source>
+  <target>Halaman Tidak Ditemukan</target>
+</trans-unit>
+<trans-unit id="s31d62495544939a2">
+  <source>Oops! The page you are looking for does not exist, has been removed, or is temporarily unavailable.</source>
+  <target>Ups! Halaman yang Anda cari tidak ada, telah dihapus, atau tidak tersedia sementara.</target>
+</trans-unit>
+<trans-unit id="sbbd340ef453ff7e4">
+  <source>Go to Dashboard</source>
+  <target>Ke Dasbor</target>
+</trans-unit>
+<trans-unit id="sbd9933b93630e230">
+  <source>Form Valid!</source>
+  <target>Formulir Valid!</target>
+</trans-unit>
+<trans-unit id="s7f3aafc5ee921956">
+  <source>Your story is ready to be uploaded.</source>
+  <target>Cerita Anda siap untuk diunggah.</target>
+</trans-unit>
+<trans-unit id="s2decc0c3aae1f2fc">
+  <source>Passionate web developer dedicated to building intuitive and user-friendly web experiences.</source>
+  <target>Web developer yang berdedikasi untuk membangun pengalaman web yang intuitif dan ramah pengguna.</target>
+</trans-unit>
+</body>
+</file>
+</xliff>
