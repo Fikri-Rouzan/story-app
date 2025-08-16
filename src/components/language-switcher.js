@@ -66,4 +66,5 @@ class LanguageSwitcher extends LitElement {
     `;
   }
 }
+
 window.customElements.define("language-switcher", LanguageSwitcher);
