@@ -1,4 +1,4 @@
-import { LitElement, html, css } from "lit";
+import { LitElement, html } from "lit";
 import { msg, updateWhenLocaleChanges } from "@lit/localize";
 import Swal from "sweetalert2";
 
