@@ -17,6 +17,7 @@
 's31d62495544939a2': `죄송합니다! 찾고 있는 페이지가 존재하지 않거나, 삭제되었거나, 일시적으로 사용할 수 없습니다.`,
 's4321e5915889f154': `스토리를 위한 사진을 선택해 주세요.`,
 's56cc72a5c70bc49d': `스토리 앱`,
+'s5ef078ff3823274c': `여기에 이야기 설명을 작성하세요...`,
 's63d894b1ddb06289': `설명`,
 's662f303af3c8fc97': `Muhammad Fikri Rouzan Ash Shidik`,
 's68f7b32cbb71f1cc': str`© ${0} Muhammad Fikri Rouzan Ash Shidik`,

@@ -17,6 +17,7 @@
 's31d62495544939a2': `Ups! Halaman yang Anda cari tidak ada, telah dihapus, atau tidak tersedia sementara.`,
 's4321e5915889f154': `Silakan pilih foto untuk cerita Anda.`,
 's56cc72a5c70bc49d': `Aplikasi Cerita`,
+'s5ef078ff3823274c': `Tulis deskripsi cerita Anda di sini...`,
 's63d894b1ddb06289': `Deskripsi`,
 's662f303af3c8fc97': `Muhammad Fikri Rouzan Ash Shidik`,
 's68f7b32cbb71f1cc': str`© ${0} Muhammad Fikri Rouzan Ash Shidik`,

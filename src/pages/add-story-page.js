@@ -88,6 +88,7 @@ class AddStoryPage extends LitElement {
                 <textarea
                   class="form-control"
                   id="descriptionInput"
+                  placeholder="${msg("Write your story description here...")}"
                   rows="4"
                   required
                 ></textarea>

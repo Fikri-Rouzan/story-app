@@ -82,6 +82,10 @@
   <source>Passionate web developer dedicated to building intuitive and user-friendly web experiences.</source>
   <target>웹 개발자이자 직관적이고 사용자 친화적인 웹 경험을 구축하는 데 전념하고 있습니다.</target>
 </trans-unit>
+<trans-unit id="s5ef078ff3823274c">
+  <source>Write your story description here...</source>
+  <target>여기에 이야기 설명을 작성하세요...</target>
+</trans-unit>
 </body>
 </file>
 </xliff>
